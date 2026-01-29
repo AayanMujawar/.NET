@@ -1,0 +1,14 @@
+E:\.NET\OOP\classes&Objects\bin\Debug\net8.0\classes&Objects.exe
+E:\.NET\OOP\classes&Objects\bin\Debug\net8.0\classes&Objects.deps.json
+E:\.NET\OOP\classes&Objects\bin\Debug\net8.0\classes&Objects.runtimeconfig.json
+E:\.NET\OOP\classes&Objects\bin\Debug\net8.0\classes&Objects.dll
+E:\.NET\OOP\classes&Objects\bin\Debug\net8.0\classes&Objects.pdb
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\classes&Objects.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\classes&Objects.AssemblyInfoInputs.cache
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\classes&Objects.AssemblyInfo.cs
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\classes&Objects.csproj.CoreCompileInputs.cache
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\classes&Objects.dll
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\refint\classes&Objects.dll
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\classes&Objects.pdb
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\classes&Objects.genruntimeconfig.cache
+E:\.NET\OOP\classes&Objects\obj\Debug\net8.0\ref\classes&Objects.dll

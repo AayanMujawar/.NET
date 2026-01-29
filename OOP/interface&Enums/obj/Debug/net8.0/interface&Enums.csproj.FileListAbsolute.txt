@@ -1,0 +1,14 @@
+E:\.NET\OOP\interface&Enums\bin\Debug\net8.0\interface&Enums.exe
+E:\.NET\OOP\interface&Enums\bin\Debug\net8.0\interface&Enums.deps.json
+E:\.NET\OOP\interface&Enums\bin\Debug\net8.0\interface&Enums.runtimeconfig.json
+E:\.NET\OOP\interface&Enums\bin\Debug\net8.0\interface&Enums.dll
+E:\.NET\OOP\interface&Enums\bin\Debug\net8.0\interface&Enums.pdb
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\interface&Enums.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\interface&Enums.AssemblyInfoInputs.cache
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\interface&Enums.AssemblyInfo.cs
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\interface&Enums.csproj.CoreCompileInputs.cache
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\interface&Enums.dll
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\refint\interface&Enums.dll
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\interface&Enums.pdb
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\interface&Enums.genruntimeconfig.cache
+E:\.NET\OOP\interface&Enums\obj\Debug\net8.0\ref\interface&Enums.dll

@@ -1,0 +1,14 @@
+E:\dotnet\BasicImplementation\typeCasting\bin\Debug\net8.0\typeCasting.exe
+E:\dotnet\BasicImplementation\typeCasting\bin\Debug\net8.0\typeCasting.deps.json
+E:\dotnet\BasicImplementation\typeCasting\bin\Debug\net8.0\typeCasting.runtimeconfig.json
+E:\dotnet\BasicImplementation\typeCasting\bin\Debug\net8.0\typeCasting.dll
+E:\dotnet\BasicImplementation\typeCasting\bin\Debug\net8.0\typeCasting.pdb
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\typeCasting.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\typeCasting.AssemblyInfoInputs.cache
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\typeCasting.AssemblyInfo.cs
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\typeCasting.csproj.CoreCompileInputs.cache
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\typeCasting.dll
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\refint\typeCasting.dll
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\typeCasting.pdb
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\typeCasting.genruntimeconfig.cache
+E:\dotnet\BasicImplementation\typeCasting\obj\Debug\net8.0\ref\typeCasting.dll

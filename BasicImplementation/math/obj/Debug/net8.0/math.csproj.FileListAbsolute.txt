@@ -1,0 +1,14 @@
+E:\dotnet\BasicImplementation\math\bin\Debug\net8.0\math.exe
+E:\dotnet\BasicImplementation\math\bin\Debug\net8.0\math.deps.json
+E:\dotnet\BasicImplementation\math\bin\Debug\net8.0\math.runtimeconfig.json
+E:\dotnet\BasicImplementation\math\bin\Debug\net8.0\math.dll
+E:\dotnet\BasicImplementation\math\bin\Debug\net8.0\math.pdb
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\math.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\math.AssemblyInfoInputs.cache
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\math.AssemblyInfo.cs
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\math.csproj.CoreCompileInputs.cache
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\math.dll
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\refint\math.dll
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\math.pdb
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\math.genruntimeconfig.cache
+E:\dotnet\BasicImplementation\math\obj\Debug\net8.0\ref\math.dll

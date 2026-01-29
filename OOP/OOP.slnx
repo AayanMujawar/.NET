@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="classes&amp;Objects/classes&amp;Objects.csproj" />
+  <Project Path="constructors&amp;accessmodifiers/constructors&amp;accessmodifiers.csproj" Id="9c830170-17cd-4360-b385-2e8e3eb1b21c" />
+  <Project Path="interface&amp;Enums/interface&amp;Enums.csproj" Id="64f91525-288d-4bbe-a779-561822c54d67" />
+  <Project Path="polymorphism&amp;Abstraction/polymorphism&amp;Abstraction.csproj" Id="a5885723-4fe5-4477-a563-fe9fb9f7c1c6" />
+  <Project Path="properties&amp;Inheritance/properties&amp;Inheritance.csproj" Id="e864bf22-4631-4cbe-ae08-d907ee4f9dd5" />
+</Solution>

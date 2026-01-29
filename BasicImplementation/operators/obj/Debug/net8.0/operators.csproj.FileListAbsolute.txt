@@ -1,0 +1,14 @@
+E:\dotnet\BasicImplementation\operators\bin\Debug\net8.0\operators.exe
+E:\dotnet\BasicImplementation\operators\bin\Debug\net8.0\operators.deps.json
+E:\dotnet\BasicImplementation\operators\bin\Debug\net8.0\operators.runtimeconfig.json
+E:\dotnet\BasicImplementation\operators\bin\Debug\net8.0\operators.dll
+E:\dotnet\BasicImplementation\operators\bin\Debug\net8.0\operators.pdb
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\operators.AssemblyInfoInputs.cache
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\operators.AssemblyInfo.cs
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\operators.csproj.CoreCompileInputs.cache
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\operators.dll
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\refint\operators.dll
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\operators.pdb
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\operators.genruntimeconfig.cache
+E:\dotnet\BasicImplementation\operators\obj\Debug\net8.0\ref\operators.dll

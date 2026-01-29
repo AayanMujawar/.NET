@@ -1,0 +1,14 @@
+E:\dotnet\BasicImplementation\helloWorld\bin\Debug\net8.0\helloWorld.exe
+E:\dotnet\BasicImplementation\helloWorld\bin\Debug\net8.0\helloWorld.deps.json
+E:\dotnet\BasicImplementation\helloWorld\bin\Debug\net8.0\helloWorld.runtimeconfig.json
+E:\dotnet\BasicImplementation\helloWorld\bin\Debug\net8.0\helloWorld.dll
+E:\dotnet\BasicImplementation\helloWorld\bin\Debug\net8.0\helloWorld.pdb
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfoInputs.cache
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfo.cs
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\helloWorld.csproj.CoreCompileInputs.cache
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\helloWorld.dll
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\refint\helloWorld.dll
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\helloWorld.pdb
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\helloWorld.genruntimeconfig.cache
+E:\dotnet\BasicImplementation\helloWorld\obj\Debug\net8.0\ref\helloWorld.dll

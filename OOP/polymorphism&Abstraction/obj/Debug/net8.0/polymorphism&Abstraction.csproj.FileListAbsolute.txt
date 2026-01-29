@@ -1,0 +1,14 @@
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\polymorphism&Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\polymorphism&Abstraction.AssemblyInfoInputs.cache
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\polymorphism&Abstraction.AssemblyInfo.cs
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\polymorphism&Abstraction.csproj.CoreCompileInputs.cache
+E:\.NET\OOP\polymorphism&Abstraction\bin\Debug\net8.0\polymorphism&Abstraction.exe
+E:\.NET\OOP\polymorphism&Abstraction\bin\Debug\net8.0\polymorphism&Abstraction.deps.json
+E:\.NET\OOP\polymorphism&Abstraction\bin\Debug\net8.0\polymorphism&Abstraction.runtimeconfig.json
+E:\.NET\OOP\polymorphism&Abstraction\bin\Debug\net8.0\polymorphism&Abstraction.dll
+E:\.NET\OOP\polymorphism&Abstraction\bin\Debug\net8.0\polymorphism&Abstraction.pdb
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\polymorphism&Abstraction.dll
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\refint\polymorphism&Abstraction.dll
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\polymorphism&Abstraction.pdb
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\polymorphism&Abstraction.genruntimeconfig.cache
+E:\.NET\OOP\polymorphism&Abstraction\obj\Debug\net8.0\ref\polymorphism&Abstraction.dll
