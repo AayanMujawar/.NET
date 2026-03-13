@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "E:\\.NET\\OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64F91525-288D-4BBE-A779-561822C54D67}|interface\u0026Enums\\interface\u0026Enums.csproj|e:\\.net\\oop\\interface\u0026enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F91525-288D-4BBE-A779-561822C54D67}|interface\u0026Enums\\interface\u0026Enums.csproj|solutionrelative:interface\u0026enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5885723-4FE5-4477-A563-FE9FB9F7C1C6}|polymorphism\u0026Abstraction\\polymorphism\u0026Abstraction.csproj|e:\\.net\\oop\\polymorphism\u0026abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5885723-4FE5-4477-A563-FE9FB9F7C1C6}|polymorphism\u0026Abstraction\\polymorphism\u0026Abstraction.csproj|solutionrelative:polymorphism\u0026abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E864BF22-4631-4CBE-AE08-D907EE4F9DD5}|properties\u0026Inheritance\\properties\u0026Inheritance.csproj|e:\\.net\\oop\\properties\u0026inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E864BF22-4631-4CBE-AE08-D907EE4F9DD5}|properties\u0026Inheritance\\properties\u0026Inheritance.csproj|solutionrelative:properties\u0026inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C830170-17CD-4360-B385-2E8E3EB1B21C}|constructors\u0026accessmodifiers\\constructors\u0026accessmodifiers.csproj|e:\\.net\\oop\\constructors\u0026accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C830170-17CD-4360-B385-2E8E3EB1B21C}|constructors\u0026accessmodifiers\\constructors\u0026accessmodifiers.csproj|solutionrelative:constructors\u0026accessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D320B2B7-6DFA-21F1-6D24-5CDC7204D89D}|classes\u0026Objects\\classes\u0026Objects.csproj|e:\\.net\\oop\\classes\u0026objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D320B2B7-6DFA-21F1-6D24-5CDC7204D89D}|classes\u0026Objects\\classes\u0026Objects.csproj|solutionrelative:classes\u0026objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ED53AFE-74D9-4EAD-AC9C-3FDEDF1F7F86}|generics and lambda exprn\\generics and lambda exprn.csproj|e:\\.net\\oop\\generics and lambda exprn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED53AFE-74D9-4EAD-AC9C-3FDEDF1F7F86}|generics and lambda exprn\\generics and lambda exprn.csproj|solutionrelative:generics and lambda exprn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,65 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.NET\\OOP\\interface\u0026Enums\\Program.cs",
-              "RelativeDocumentMoniker": "interface\u0026Enums\\Program.cs",
-              "ToolTip": "E:\\.NET\\OOP\\interface\u0026Enums\\Program.cs",
-              "RelativeToolTip": "interface\u0026Enums\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwBwAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\.NET\\OOP\\generics and lambda exprn\\Program.cs",
+              "RelativeDocumentMoniker": "generics and lambda exprn\\Program.cs",
+              "ToolTip": "E:\\.NET\\OOP\\generics and lambda exprn\\Program.cs",
+              "RelativeToolTip": "generics and lambda exprn\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T08:05:50.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.NET\\OOP\\polymorphism\u0026Abstraction\\Program.cs",
-              "RelativeDocumentMoniker": "polymorphism\u0026Abstraction\\Program.cs",
-              "ToolTip": "E:\\.NET\\OOP\\polymorphism\u0026Abstraction\\Program.cs",
-              "RelativeToolTip": "polymorphism\u0026Abstraction\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA2wD8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:53:38.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.NET\\OOP\\properties\u0026Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "properties\u0026Inheritance\\Program.cs",
-              "ToolTip": "E:\\.NET\\OOP\\properties\u0026Inheritance\\Program.cs",
-              "RelativeToolTip": "properties\u0026Inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:16:09.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.NET\\OOP\\constructors\u0026accessmodifiers\\Program.cs",
-              "RelativeDocumentMoniker": "constructors\u0026accessmodifiers\\Program.cs",
-              "ToolTip": "E:\\.NET\\OOP\\constructors\u0026accessmodifiers\\Program.cs",
-              "RelativeToolTip": "constructors\u0026accessmodifiers\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T07:08:15.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.NET\\OOP\\classes\u0026Objects\\Program.cs",
-              "RelativeDocumentMoniker": "classes\u0026Objects\\Program.cs",
-              "ToolTip": "E:\\.NET\\OOP\\classes\u0026Objects\\Program.cs",
-              "RelativeToolTip": "classes\u0026Objects\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T07:12:53.577Z",
+              "WhenOpened": "2026-02-24T05:31:23.146Z",
               "EditorCaption": ""
             }
           ]

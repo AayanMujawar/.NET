@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "generics and lambda exprn": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

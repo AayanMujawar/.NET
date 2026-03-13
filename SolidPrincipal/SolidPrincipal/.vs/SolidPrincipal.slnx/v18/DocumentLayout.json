@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAABF372-617C-223C-2D3D-DB7CF2451022}|DEPENDENCY INVERSION PRINCIPLE\\DEPENDENCY INVERSION PRINCIPLE.csproj|d:\\dotnet\\dotnet\\lab\\solidprincipal\\dependency inversion principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAABF372-617C-223C-2D3D-DB7CF2451022}|DEPENDENCY INVERSION PRINCIPLE\\DEPENDENCY INVERSION PRINCIPLE.csproj|solutionrelative:dependency inversion principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9969D8E2-9A4F-9C3C-9EA1-9806609113D7}|INTERFACE SEGREGATION PRINCIPLE\\INTERFACE SEGREGATION PRINCIPLE.csproj|d:\\dotnet\\dotnet\\lab\\solidprincipal\\interface segregation principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9969D8E2-9A4F-9C3C-9EA1-9806609113D7}|INTERFACE SEGREGATION PRINCIPLE\\INTERFACE SEGREGATION PRINCIPLE.csproj|solutionrelative:interface segregation principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{636891CA-5BB4-F1E9-B52E-24CB3A82D152}|LISKOV SUBSTITUTION PRINCIPLE\\LISKOV SUBSTITUTION PRINCIPLE.csproj|d:\\dotnet\\dotnet\\lab\\solidprincipal\\liskov substitution principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{636891CA-5BB4-F1E9-B52E-24CB3A82D152}|LISKOV SUBSTITUTION PRINCIPLE\\LISKOV SUBSTITUTION PRINCIPLE.csproj|solutionrelative:liskov substitution principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A63B4D3-9093-8499-46F8-8E658867816C}|OPENCLOSEDRINCIPLE\\OPENCLOSEDRINCIPLE.csproj|d:\\dotnet\\dotnet\\lab\\solidprincipal\\openclosedrinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A63B4D3-9093-8499-46F8-8E658867816C}|OPENCLOSEDRINCIPLE\\OPENCLOSEDRINCIPLE.csproj|solutionrelative:openclosedrinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50526472-92DB-0C25-74E6-04DEBB880179}|SINGLERESPONSIBILITYPRINCIPLE\\SINGLERESPONSIBILITYPRINCIPLE.csproj|d:\\dotnet\\dotnet\\lab\\solidprincipal\\singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50526472-92DB-0C25-74E6-04DEBB880179}|SINGLERESPONSIBILITYPRINCIPLE\\SINGLERESPONSIBILITYPRINCIPLE.csproj|solutionrelative:singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\DEPENDENCY INVERSION PRINCIPLE\\Program.cs",
+              "RelativeDocumentMoniker": "DEPENDENCY INVERSION PRINCIPLE\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\DEPENDENCY INVERSION PRINCIPLE\\Program.cs",
+              "RelativeToolTip": "DEPENDENCY INVERSION PRINCIPLE\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:10:09.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\INTERFACE SEGREGATION PRINCIPLE\\Program.cs",
+              "RelativeDocumentMoniker": "INTERFACE SEGREGATION PRINCIPLE\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\INTERFACE SEGREGATION PRINCIPLE\\Program.cs",
+              "RelativeToolTip": "INTERFACE SEGREGATION PRINCIPLE\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:04:06.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\LISKOV SUBSTITUTION PRINCIPLE\\Program.cs",
+              "RelativeDocumentMoniker": "LISKOV SUBSTITUTION PRINCIPLE\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\LISKOV SUBSTITUTION PRINCIPLE\\Program.cs",
+              "RelativeToolTip": "LISKOV SUBSTITUTION PRINCIPLE\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:55:58.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\OPENCLOSEDRINCIPLE\\Program.cs",
+              "RelativeDocumentMoniker": "OPENCLOSEDRINCIPLE\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\OPENCLOSEDRINCIPLE\\Program.cs",
+              "RelativeToolTip": "OPENCLOSEDRINCIPLE\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:20:57.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\SINGLERESPONSIBILITYPRINCIPLE\\Program.cs",
+              "RelativeDocumentMoniker": "SINGLERESPONSIBILITYPRINCIPLE\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Dotnet\\Lab\\SolidPrincipal\\SINGLERESPONSIBILITYPRINCIPLE\\Program.cs",
+              "RelativeToolTip": "SINGLERESPONSIBILITYPRINCIPLE\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:15:13.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
