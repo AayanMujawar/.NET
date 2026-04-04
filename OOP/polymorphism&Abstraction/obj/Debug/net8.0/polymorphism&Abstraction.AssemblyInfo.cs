@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("polymorphism&Abstraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1f47b9bb8fe3c729f1a6957c678c08a148fb7bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b5bb8427bc4536fa942102eb6eb6c6bd6f10fbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("polymorphism&Abstraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("polymorphism&Abstraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

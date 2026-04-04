@@ -1,0 +1,6 @@
+mvc stands for model view controller.
+its a design pattern or architecture used to organize code in wb application.
+
+model means data layer - handles data and business logic
+communicates with database
+
