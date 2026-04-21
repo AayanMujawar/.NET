@@ -1,0 +1,42 @@
+entity framework remove the neede to writing sql quesries manually it allows developers to interact with database using .net objects and classes it provides a higher level of abstraction over the database and allows developers to work with data in a more intuitive way it also provides features such as change tracking lazy loading and caching which can improve performance and reduce the amount of code needed to interact with the database entity framework supports multiple database providers including sql server mysql postgresql and sqlite making it a versatile choice for data access in .net applications
+
+why we use :
+without entity frameworks developers would have to write raw sql queries to interact with the database this can be time consuming and error prone especially for complex queries and data models it also requires developers to have a good understanding of sql syntax and database design which may not be the case for all developers using entity framework allows developers to work with data in a more intuitive way using .net objects and classes it also provides features such as change tracking lazy loading and caching which can improve performance and reduce the amount of code needed to interact with the database overall using entity framework can save time and reduce errors when working with databases in .net applications
+more chance to error when writing raw sql queries manually it can be easy to make syntax errors or forget to properly handle parameters which can lead to security vulnerabilities such as sql injection attacks using entity framework can help mitigate these risks by providing a higher level of abstraction and automatically handling parameterization and other security concerns it also allows developers to focus on the business logic of their application rather than worrying about the intricacies of database interactions
+entity framework also provides a number of features that can help improve performance and reduce the amount of code needed to interact with the database for example it supports lazy loading which allows related data to be loaded on demand rather than all at once this can help reduce the amount of data that needs to be retrieved from the database and improve performance it also provides change tracking which allows developers to easily track changes to their data and automatically generate the necessary sql queries to update the database this can save time and reduce errors when working with complex data models overall using entity framework can help developers work more efficiently and effectively when interacting with databases in .net applications
+entity framework also supports multiple database providers which makes it a versatile choice for data access in .net applications whether you are working with sql server mysql postgresql or sqlite entity framework provides a consistent and unified way to interact with your database this can help reduce the learning curve for developers and make it easier to switch between different database providers if needed overall using entity framework can help simplify data access and improve productivity when working with databases in .net applications
+
+select * from student where id = 1
+in ef : context.student.find(1)
+
+entity framework vs 
+entity framework core is a latest , lightweight , cross platform version 
+its an model version of entity framework that works on window , linux , mac
+
+
+ORM : Object Relational Mapping :-> it maps C# classes to database tables and object to row.
+
+Coding Approach : 3types :-> but we use 2 types :
+
+1> Code 1st : start with coding  , generate c# classes from Database
+workflow :
+create c# classes -> DB context -> Migration -> Database
+
+DB context : its main class that connects your application with Database.
+ex : public DBSet<Student> students {get , set}
+
+DBSet : represents Tables in Database
+
+
+Migration : is used to create or update database structure automatically 
+
+
+
+ACTIVITY : 
+What is CRUD operation , http metthods .
+
+
+
+
+
+2> Database 1st :
